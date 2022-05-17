@@ -9,6 +9,9 @@ The Wallcraft project features thousands of updates and changes, rebalancing and
 
 Any contributions which fall in line with Wallcraft philosophy will eventually be merged when I return to the project full time.
 
+Wallcraft uses a custom patch-3 mpq. Visit the following link to download the file, which should be placed into the Data folder of your 1.12.1 client:
+https://drive.google.com/file/d/1JobyAHmnFfvEi5zEGTvzPZVAAcXWiHLa/view?usp=sharing
+
 The project is temporarily on hiatus as I am thousands of miles from home, engaged in asymmetric warfare against an ancient cult. I will return someday, somehow. The website will remain offline until then, but I am holding the URL. (http://www.wallcraft.org)
 
 To follow the project and any future updates, join the discord:
